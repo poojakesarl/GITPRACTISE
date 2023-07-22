@@ -1,0 +1,7 @@
+GIT HUB:
+--------
+PULL
+PUSH
+MERGE
+COMMIT
+
